@@ -25,7 +25,7 @@ SECRET_KEY = 'ywm_h12f%7q)qg@zf%7xg%b5qcx(!h27lm%jx-_8@tgcw3!@u('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['marolahy.pythonanywhere.com','localhost']
 
 
 # Application definition
